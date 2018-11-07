@@ -7,6 +7,6 @@ This course addresses the following topics:
 - Gaussian Mixture Models (Clustering, Expectation-Maximization algorithms in theory & practice)
 
 In this repository, you will find 3 projects:
-- Lab1: Simulation of a moving robot, the position of which is probabilistic, and not always known to the user... Knowing the probability model and a set of observations, how can we find the most likely-position at any time ?
-- Lab2: yet to come ;)
-- Personnal project: coming soon as well ;)
+- Lab1: Simulation of a moving robot, the position of which is probabilistic, and not always known to the user... Knowing the probability model and a set of observations, how can we find the most likely-position at any time ? Using Hidden Markov Models!
+- Lab2: the Gaussian Mixture Model clustering algortihm from scratch. Mathematical theory and code implementation.
+- Personnal project: coming soon ;)
